@@ -1,6 +1,6 @@
 // import { Navbar } from '../components/Navbar';
 // usando el import alias:
-import { Navbar } from '@/components/Navbar';
+import { Navbar } from '@/src/components/Navbar';
 import { Roboto } from 'next/font/google'; // De esta manera se importa fuentes de google fonts
 import './globals.css';
 
