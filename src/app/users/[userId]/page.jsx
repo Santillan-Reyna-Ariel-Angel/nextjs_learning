@@ -5,7 +5,7 @@ import { useParams } from 'next/navigation';
 
 const UserPage = () => {
   const params = useParams();
-  console.log('paramas', params);
+  console.log('params', params);
   return (
     <div>
       <button
