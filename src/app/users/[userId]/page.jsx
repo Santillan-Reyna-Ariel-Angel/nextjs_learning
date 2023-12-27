@@ -1,6 +1,6 @@
 'use client';
 import React from 'react';
-// * useParams: permite acceder a los parametros de la url sin esperar a que nos manden/lleguen por props
+// * useParams: permite acceder a los parámetros de la url sin esperar a que nos manden/lleguen por props
 import { useParams } from 'next/navigation';
 
 const UserPage = () => {
